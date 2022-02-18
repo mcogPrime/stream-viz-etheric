@@ -1,3 +1,3 @@
 # stream-viz-etheric
 
-**OPS Center level view into a deployed mesh of STREAM nodes**
+**OPS Center level view into a deployed mesh of STREAM nodes (...the STREAM ether)**
